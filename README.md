@@ -56,3 +56,13 @@ This project analyzes Flipkart customer service data to understand key factors i
 ## Conclusion
 This analysis highlights that **service efficiency, response time, and issue resolution quality** are the primary drivers of customer satisfaction. By addressing operational bottlenecks and improving agent performance, Flipkart can significantly enhance customer experience and retention.
 
+## 📊 Visualizations
+
+### CSAT Score Distribution
+![CSAT Distribution](images/csat_distribution.png)
+
+### Response Time vs CSAT Score
+![Response Time Analysis](images/response_time.png)
+
+### Agent Performance Analysis
+![Agent Performance](images/agent_performance.png)
