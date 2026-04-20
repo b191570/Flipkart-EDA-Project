@@ -46,7 +46,7 @@ This project analyzes Flipkart customer service data to understand key factors i
 - Time-based trend analysis
 - Correlation heatmap & pair plots
 
-## 💡 Business Recommendations
+## Business Recommendations
 - Reduce response time through process optimization and automation  
 - Focus on resolving **returns and order-related issues**, which drive majority of complaints  
 - Identify and train underperforming agents to improve service quality  
